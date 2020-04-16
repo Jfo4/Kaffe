@@ -1,11 +1,14 @@
-﻿body, html {
+﻿body, html
+{
     height: 100%;
 }
 
-.bg {
+.bg
+{
     background-image: url("/images/Kaffe3D.jpg");
     height: 100%;
     background-position: top left;
     background-repeat: repeat-x repeat-y;
     background-size: initial;
 }
+
