@@ -92,9 +92,6 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="images\Choklad1.png" />
-    <Content Include="images\Choklad2.jpg" />
-    <Content Include="images\Choklad3.jpg" />
     <Content Include="images\Kaffe1.jpg" />
     <Content Include="images\Kaffe2.jpg" />
     <Content Include="images\Kaffe3.jpg" />
@@ -105,6 +102,7 @@
     <Content Include="OmOss.html" />
     <Content Include="Produkter.html" />
     <Content Include="styles\layout.css" />
+    <Content Include="Test.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
