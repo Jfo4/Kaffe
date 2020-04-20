@@ -96,8 +96,11 @@
     <Content Include="images\Kaffe2.jpg" />
     <Content Include="images\Kaffe3.jpg" />
     <Content Include="images\Kaffe3D.jpg" />
+    <Content Include="images\Kaffe3D1.jpg" />
     <Content Include="images\Kaffe4.jpg" />
     <Content Include="images\Kaffe5.jpg" />
+    <Content Include="images\m.png" />
+    <Content Include="images\w.png" />
     <Content Include="Index.html" />
     <Content Include="OmOss.html" />
     <Content Include="Produkter.html" />
